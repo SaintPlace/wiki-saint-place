@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203" height="202" viewBox="0 0 203 202">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 150px;
+        font-family: "Tenor Sans";
+      }
+
+      .cls-1 {
+        fill: #9e9e9e;
+      }
+    </style>
+  </defs>
+  <text id="P" class="cls-1" x="101.725" y="156.513">P</text>
+  <text id="S" class="cls-2" x="7.725" y="156.513">S</text>
+</svg>

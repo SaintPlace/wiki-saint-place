@@ -1,0 +1,21 @@
+{
+    "name": "wiki.saint-place.ru",
+    "version": "0.0.1",
+    "description": "",
+    "authors": {
+      "name": "",
+      "email": ""
+    },
+    "repository": "/wiki.saint-place.ru",
+    "scripts": {
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@vuepress/plugin-back-to-top": "1.9.7",
+        "@vuepress/plugin-medium-zoom": "1.9.7",
+        "vuepress": "1.9.7"
+      }
+  }
+  
