@@ -7,19 +7,11 @@ actionLink: /guide/
 
 <div class="features">
   <div class="feature">
-    <h2>Продавцы</h2>
-    <p>text</p>
-  </div>
-  <div class="feature">
-    <h2>Покупатели</h2>
-    <p>text</p>
-  </div>
-  <div class="feature">
-    <h2>Техническая поддержка</h2>
-    <p>text</p>
+    <h2>Продавцам</h2>
+    <p>info@sain-place.ru</p>
   </div>
 </div>
 
 ::: slot footer
-Сделано с ❤️
+Сделано с 💜
 :::
