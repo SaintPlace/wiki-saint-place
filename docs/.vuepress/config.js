@@ -4,7 +4,7 @@ module.exports = {
     title: 'Wiki | SaintPlace',
     description: ' ',
     head: [
-        ['meta', { name: 'theme-color', content: '#9f6bba' }],
+        ['meta', { name: 'theme-color', content: '#a545d7' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['link', { rel: 'icon', href: '/favicon.svg' }]

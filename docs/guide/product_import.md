@@ -6,13 +6,17 @@
 
 Перейди в раздел
 
-> [Администрирование - Импорт данных - Товары](https://saint-place.ru/vendor.php?dispatch=import_presets.manage&object_type=products)
+> [Товары - Товары](https://saint-place.ru/vendor.php?dispatch=products.manage)
 
 ![](../assets/img/product_import/1.png)
 
+В правом верхнем углу нажми **"+"**, далее нажми **Импортировать товары**.
+
+![](../assets/img/product_import/1.1.png)
+
 ### Создание пресета
 
-В верхнем правом углу нажми **"+"**, чтобы создать новый пресет импорта.
+На странице импорта товаров, в правом верхнем углу нажми **"+"**, чтобы создать новый пресет импорта.
 
 ![](../assets/img/product_import/2.png)
 
