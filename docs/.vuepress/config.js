@@ -56,7 +56,7 @@ module.exports = {
                     sidebarDepth: 5,
                     children: [
                         '',
-                        'product_import',
+                        // 'product_import',
                         'product_add'
                     ]
                 }
